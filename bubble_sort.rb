@@ -2,7 +2,7 @@
 # Sorts in O(n^2) time
 
 def bubble_sort (array)
-	len = array.length 
+len = array.length 
 
 	return array if len <= 1 # Only one element in array
 
